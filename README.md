@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science & various machine learning techniques.
 - 🔭 I’m currently working on Machine Learning and Deep learning projects.
 - 👯 I’m looking to collaborate on Machien learning projects.
-- 💬 Ask me about Statistics, DataScience,Cricket,Movies,Advices.
+- 💬 Ask me about DataScience,Cricket,Movies,Advices.
 - 📫 How to reach me: thetesam@gmail.com
 
 <!---
